@@ -1,0 +1,26 @@
+h1{
+	text-align: center;}
+h2{
+	text-align: center;
+			color: white;	
+	}
+div{
+	padding-top: 0px
+	padding-bottom: 0px;
+	background: #F5ECCE;
+	}
+button {
+	width: 75px;
+	height: 20px;
+	background: orange;
+	margin-left: 10px;
+	}
+input.login{
+	border: orange 1px solid;
+	width: 30%;
+	background: #F5ECCE;
+	}
+input#titulo{
+		
+	}
+	

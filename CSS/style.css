@@ -1,0 +1,42 @@
+h1{
+	text-align: center;}
+
+div.titulo{
+	background:#E6E6E6;
+	border-radius: 10px;
+	}
+div.cuadro{
+	border: orange 2px solid;
+	margin:25%; margin-top:0;
+	border-radius: 10px;
+	background: #F5ECCE;
+	}	
+div.login-cuadro{
+	background: orange;
+	margin-top=auto;
+	}
+div.login-cuadro h2{
+	background: orange;
+	text-align: center;
+	color: white;
+	padding-top:5%;
+	padding-bottom:5%;
+	margin-top:auto;
+	}
+button {
+	width: 75px;
+	height: 20px;
+	background: orange;
+	margin-left: 10px;
+	border-radius: 5px;	
+	}
+input.login{
+	border: orange 2px solid;
+	width: 30%;
+	background: #F5ECCE;
+	border-radius: 5px;
+	}
+input#titulo{
+		
+	}
+	
