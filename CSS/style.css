@@ -27,6 +27,7 @@ h1.blanco{
 	display: inline;
 
 }
+
 .float-derecha {
 	float: right;
 }
@@ -205,7 +206,7 @@ input.boton-naranja {
 }
 .boton-amarillo {
 	float: right;
-	width: 120px;
+	width: 140px;
 	height: 40px;
 	background: #FFBF00;
 	margin-left: 10px;
@@ -269,4 +270,11 @@ a:hover{
 .backgroundgris{
 	background: #E6E6E6;
 }
+.margen-top {
+	margin-top: 0;
+}
+.margen-bot {
+	margin-bottom: 0;
+}
+
 	
