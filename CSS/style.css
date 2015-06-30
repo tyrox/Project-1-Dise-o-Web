@@ -151,10 +151,10 @@ div.dash-img {
 	padding-right:15%;
 	color: white;
 }
-div.dash-img a{
+.dash-img a{
 	float:left;
 	display:auto;
-	margin-left: 10%;
+	margin-left: 15%;
 	
 }
 .back-verde {
