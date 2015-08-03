@@ -27,6 +27,7 @@ var FUNCION = FUNCION || {
 			teclado_especial=true;
 		}
 	}
+
 	if(numeros.indexOf(teclado)==-1 && !teclado_especial){// en esta parte pusiste indexof todo con minusculas y debe ser el Of con mayuscula
 		return false;
 	}
