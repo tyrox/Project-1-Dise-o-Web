@@ -121,5 +121,19 @@ var FUNCION = FUNCION || {
 		} 
 		var obj = JSON.parse(text);
 	}
-	
+
+		function newInvoice(pClient,pDescrption,pDate,pNote){
+		this.client = pClient;
+		this.descrption= pDescrption;
+		this.date=pDate;
+		this.note=pNote;
+
+		var text = {
+			"client: "this.client;
+			"descrption: "this.descrption;
+			"date: "this.date;
+			"note: "this.note;
+		} 
+		var obj = JSON.parse(text);
+	}	
 }		
